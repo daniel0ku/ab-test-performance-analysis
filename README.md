@@ -48,6 +48,7 @@ Project Link: [GitHub Repository](https://github.com/TuringCollegeSubmissions/da
 1. `Fast Food Marketing Campaign AB Test.ipynb`
 2. `Mobile Games AB Testing - Cookie Cats.ipynb`
 3. `README.md`
+4. `LICENSE`
 
 ### Dataset Source:
 1. Fast Food Marketing Campaign: Provided by the author within the notebook.
